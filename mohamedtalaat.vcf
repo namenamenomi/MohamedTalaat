@@ -1,0 +1,28 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Talaat;Mohamed ;;;
+FN:Mohamed  Talaat
+ORG:Luxury Project Builders
+COMPANY:Luxury Project Builders
+TITLE:Project Manager
+TEL;TYPE=work,pref:+97126226338
+TEL;CELL;TYPE=mobile,VOICE:+971509369388
+TEL;CELL;TYPE=Office,VOICE:
+TEL;TYPE=HOME,VOICE:
+TEL;TYPE=SMS:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:mohamed.talaat@lpb.ae
+URL;TYPE=Digital Business Card:
+
+URL;TYPE=Location:http://goo.gl/maps/m16T4pPYCD41qqAr8
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100602241
+URL;TYPE=Website:http://www.lpb.ae/
+URL;TYPE=WHATSAPP:
+
+
+
+PHOTO;ENCODING=b:DEF
+NOTE;CHARSET=UTF-8:
+
+END:VCARD
